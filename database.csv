@@ -1,0 +1,73 @@
+Jenis Kiriman,Harga,Durasi Pengiriman,Packing,Reputasi,Output
+Paket,Sangat Penting,Cepat,Standart,Cukup,J&T
+Paket,Penting,Cepat,Standart,Cukup,JNE
+Paket,Tidak Penting,Cepat,Standart,Cukup,POS INDONESIA
+Paket,Sangat Penting,Biasa,Standart,Cukup,EKSPEDISI REGULAR
+Paket,Penting,Biasa,Standart,Cukup,EKSPEDISI REGULAR
+Paket,Tidak Penting,Biasa,Standart,Cukup,EKSPEDISI REGULAR
+Paket,Sangat Penting,Cepat,Kayu,Cukup,J&T
+Paket,Penting,Cepat,Kayu,Cukup,J&T
+Paket,Tidak Penting,Cepat,Kayu,Cukup,JNE
+Paket,Sangat Penting,Biasa,Kayu,Cukup,J&T
+Paket,Penting,Biasa,Kayu,Cukup,JNE
+Paket,Tidak Penting,Biasa,Kayu,Cukup,JNE
+Paket,Sangat Penting,Cepat,Standart,Baik,J&T
+Paket,Penting,Cepat,Standart,Baik,JNE
+Paket,Tidak Penting,Cepat,Standart,Baik,POS INDONESIA
+Paket,Sangat Penting,Biasa,Standart,Baik,J&T
+Paket,Penting,Biasa,Standart,Baik,JNE
+Paket,Tidak Penting,Biasa,Standart,Baik,POS INDONESIA
+Paket,Sangat Penting,Cepat,Kayu,Baik,JNE
+Paket,Penting,Cepat,Kayu,Baik,JNE
+Paket,Tidak Penting,Cepat,Kayu,Baik,JNE
+Paket,Sangat Penting,Biasa,Kayu,Baik,EKSPEDISI REGULAR
+Paket,Penting,Biasa,Kayu,Baik,EKSPEDISI REGULAR
+Paket,Tidak Penting,Biasa,Kayu,Baik,EKSPEDISI REGULAR
+Paket,Sangat Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Paket,Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Paket,Tidak Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Paket,Sangat Penting,Biasa,Standart,Sangat Baik,POS INDONESIA
+Paket,Penting,Biasa,Standart,Sangat Baik,POS INDONESIA
+Paket,Tidak Penting,Biasa,Standart,Sangat Baik,POS INDONESIA
+Paket,Sangat Penting,Cepat,Kayu,Sangat Baik,JNE
+Paket,Penting,Cepat,Kayu,Sangat Baik,JNE
+Paket,Tidak Penting,Cepat,Kayu,Sangat Baik,JNE
+Paket,Sangat Penting,Biasa,Kayu,Sangat Baik,POS INDONESIA
+Paket,Penting,Biasa,Kayu,Sangat Baik,POS INDONESIA
+Paket,Tidak Penting,Biasa,Kayu,Sangat Baik,POS INDONESIA
+Dokumen,Sangat Penting,Cepat,Standart,Cukup,EKSPEDISI REGULAR
+Dokumen,Penting,Cepat,Standart,Cukup,EKSPEDISI REGULAR
+Dokumen,Tidak Penting,Cepat,Standart,Cukup,J&T
+Dokumen,Sangat Penting,Biasa,Standart,Cukup,J&T
+Dokumen,Penting,Biasa,Standart,Cukup,JNE
+Dokumen,Tidak Penting,Biasa,Standart,Cukup,POS INDONESIA
+Dokumen,Sangat Penting,Cepat,Kayu,Cukup,EKSPEDISI REGULAR
+Dokumen,Penting,Cepat,Kayu,Cukup,EKSPEDISI REGULAR
+Dokumen,Tidak Penting,Cepat,Kayu,Cukup,EKSPEDISI REGULAR
+Dokumen,Sangat Penting,Biasa,Kayu,Cukup,J&T
+Dokumen,Penting,Biasa,Kayu,Cukup,J&T
+Dokumen,Tidak Penting,Biasa,Kayu,Cukup,POS INDONESIA
+Dokumen,Sangat Penting,Cepat,Standart,Baik,JNE
+Dokumen,Penting,Cepat,Standart,Baik,POS INDONESIA
+Dokumen,Tidak Penting,Cepat,Standart,Baik,POS INDONESIA
+Dokumen,Sangat Penting,Biasa,Standart,Baik,POS INDONESIA
+Dokumen,Penting,Biasa,Standart,Baik,EKSPEDISI REGULAR
+Dokumen,Tidak Penting,Biasa,Standart,Baik,EKSPEDISI REGULAR
+Dokumen,Sangat Penting,Cepat,Kayu,Baik,EKSPEDISI REGULAR
+Dokumen,Penting,Cepat,Kayu,Baik,J&T
+Dokumen,Tidak Penting,Cepat,Kayu,Baik,JNE
+Dokumen,Sangat Penting,Biasa,Kayu,Baik,JNE
+Dokumen,Penting,Biasa,Kayu,Baik,J&T
+Dokumen,Tidak Penting,Biasa,Kayu,Baik,JNE
+Dokumen,Sangat Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Dokumen,Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Dokumen,Tidak Penting,Cepat,Standart,Sangat Baik,POS INDONESIA
+Dokumen,Sangat Penting,Biasa,Standart,Sangat Baik,EKSPEDISI REGULAR
+Dokumen,Penting,Biasa,Standart,Sangat Baik,EKSPEDISI REGULAR
+Dokumen,Tidak Penting,Biasa,Standart,Sangat Baik,EKSPEDISI REGULAR
+Dokumen,Sangat Penting,Cepat,Kayu,Sangat Baik,J&T
+Dokumen,Penting,Cepat,Kayu,Sangat Baik,JNE
+Dokumen,Tidak Penting,Cepat,Kayu,Sangat Baik,JNE
+Dokumen,Sangat Penting,Biasa,Kayu,Sangat Baik,J&T
+Dokumen,Penting,Biasa,Kayu,Sangat Baik,JNE
+Dokumen,Tidak Penting,Biasa,Kayu,Sangat Baik,JNE
